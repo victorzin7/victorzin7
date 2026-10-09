@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, Mundo!
 
-<!--
-**victorzin7/victorzin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Victor**, sou **Estudante de hardware, faço algumas coisas como dev.** focado em desenvolvimento de software e cria Ação de interfaces modernas.
+Comecei minha trilha como desenvolvedor web, depois fui puxado a seguir um Percurso  me apaixonando por hardware cada vez mais **Busco aprimorar minhas habilidades tecnicas.**
+nas seguintes areas, sou voltado pra areas como hardware, software, redes.
+---
 
-Here are some ideas to get you started:
+## 💻 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend e Backend
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+
+### Ferramentas
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+## 📬 Fale comigo
+
+[![Gmail](https://shields.io)](mailto:victorollyver@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/victor-am-577a63370?utm_source=share_via&utm_content=profile&utm_medium=member_android)
