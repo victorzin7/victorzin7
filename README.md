@@ -29,14 +29,14 @@ Meu nome é **Victor**, sou **Estudante de hardware**, faço algumas coisas como
 
 | HTML5 | CSS3 | JavaScript |
 | :---: | :---: | :---: |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> | <img src="https://shields.io" /> |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="[https://shields.io](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" /> |
 
 ### Ferramentas
 
-| Git | GitHub |
+| Git | Vscode |
 | :---: | :---: |
-| <img src="https://shields.io" /> | <img src="https://shields.io" /> |
-
+| <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+ 
 ---
 
 ## 📬 Fale comigo
