@@ -43,4 +43,4 @@ Meu nome é **Victor**, sou **Estudante de hardware**, faço algumas coisas como
 
 | Gmail | LinkedIn |
 | :---: | :---: |
-| <a href="mailto:victorolliveirar@gmail.com"><img src="https://shields.io" /></a> | <a href="https://linkedin.com"><img src="https://shields.io" /></a> |
+| <a href="mailto:victorolliveirar@gmail.com"><img src="https://shields.io" /></a> | <a href="https://linkedin.com"><img src="https://camo.githubusercontent.com/85149c8ec5795f673be4768efe3593ff2888b254e504dc89b2c03cfd34269769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" /></a> |
