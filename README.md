@@ -20,20 +20,11 @@ Meu nome é **Victor**, sou **Estudante de hardware**, faço algumas coisas como
  
 ### Sistema Operacional | Banco de Dados
 
-| Windows | linux | Supabase
-| :---: | :---: |
-| <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
-
-## 📬 Fale comigo
-
-### Sistema Operacional | Banco de Dados
-
 | Windows | linux | Supabase |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> |
 
-
-
+## 📬 Fale comigo
 
 
 | Gmail | LinkedIn | Discord |
