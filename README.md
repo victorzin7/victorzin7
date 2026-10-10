@@ -18,13 +18,11 @@ Meu nome é **Victor**, sou **Estudante de hardware**, faço algumas coisas como
 | :---: | :---: |
 | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
  
-### Sistema Operacional
+### Sistema Operacional | Banco de Dados
 
-| Windows | linux |
+| Windows | linux | Supabase
 | :---: | :---: |
-| <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" /> |
-
----
+| <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 ## 📬 Fale comigo
 
