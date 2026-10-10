@@ -2,6 +2,7 @@
 
 Meu nome é **Victor**, sou **Estudante de hardware**, faço algumas coisas como dev. focado em desenvolvimento de software e cria Ação de interfaces modernas. Comecei minha trilha como desenvolvedor web, depois fui puxado a seguir um Percurso me apaixonando por hardware cada vez mais Busco aprimorar minhas habilidades tecnicas. nas seguintes areas, sou voltado pra areas como hardware, software, redes.
 
+sei que tenho um longo caminho para frente por isso busco me aperfeiçoa cada  vez mais pra chegar no meu objetivo e ser um excelente profissional pra  suprir as necessidades alheias.
 ---
 
 ## 💻 Habilidades Técnicas
